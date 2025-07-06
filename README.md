@@ -1,0 +1,1 @@
+# Electrical-Transformers-Fault-prediction-and-Anomaly-Detection-using-Infrared-Images
